@@ -32,6 +32,6 @@ openFile
 
 -vm
 
-C:\Program Files\Java\jdk1.8.0_221
+C:\Program Files\Java\jdk-15.0.2\bin
 
 -javaagent:C:\work\sts-4.4.0.RELEASE\lombok.jar
